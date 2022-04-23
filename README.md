@@ -18,5 +18,4 @@ Python 3.9.12
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [W3 school](https://www.w3schools.com/python/)
